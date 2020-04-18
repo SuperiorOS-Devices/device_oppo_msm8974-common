@@ -188,4 +188,4 @@ WIFI_HIDL_FEATURE_DISABLE_AP_MAC_RANDOMIZATION := true
 WPA_SUPPLICANT_VERSION           := VER_0_8_X
 
 # Inherit from the proprietary version
-include vendor/oppo/msm8974-common/BoardConfigVendor.mk
+include vendor/oneplus/msm8974-common/BoardConfigVendor.mk

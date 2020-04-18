@@ -263,7 +263,7 @@ PRODUCT_PACKAGES += \
 	librecovery_updater_oppo
     
 # Call the proprietary setup
-$(call inherit-product, vendor/oppo/msm8974-common/msm8974-common-vendor.mk)
+$(call inherit-product, vendor/oneplus/msm8974-common/msm8974-common-vendor.mk)
 
 # Inherit from oppo-common
 # $(call inherit-product, device/oppo/common/common.mk)
